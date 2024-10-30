@@ -1,5 +1,5 @@
-账号：yuan<br>
-密码：123456
+账号：admin
+密码：1111
 
 ### node 版本
 
@@ -7,5 +7,5 @@
 
 ### 使用说明
 
-1.  `npm install 或 yarn`
-2.  `npm run dev`
+1.  `pnpm i`
+2.  `pnpm dev`
